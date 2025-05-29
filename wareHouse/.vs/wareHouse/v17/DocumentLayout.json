@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|c:\\users\\artyom\\documents\\csharp_course1\\warehouse\\warehouse\\warehouse\\warehouse\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|solutionrelative:warehouse\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|c:\\users\\artyom\\documents\\csharp_course1\\warehouse\\warehouse\\warehouse\\warehouse\\ui\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|solutionrelative:warehouse\\ui\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|c:\\users\\artyom\\documents\\csharp_course1\\warehouse\\warehouse\\warehouse\\warehouse\\service\\warehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|solutionrelative:warehouse\\service\\warehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|c:\\users\\artyom\\documents\\csharp_course1\\warehouse\\warehouse\\warehouse\\warehouse\\service\\csvservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|solutionrelative:warehouse\\service\\csvservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|c:\\users\\artyom\\documents\\csharp_course1\\warehouse\\warehouse\\warehouse\\warehouse\\dal\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|solutionrelative:warehouse\\dal\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|c:\\users\\artyom\\documents\\csharp_course1\\warehouse\\warehouse\\warehouse\\warehouse\\model\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|solutionrelative:warehouse\\model\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|c:\\users\\artyom\\documents\\csharp_course1\\warehouse\\warehouse\\warehouse\\warehouse\\service\\cargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|solutionrelative:warehouse\\service\\cargoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|c:\\users\\artyom\\documents\\csharp_course1\\warehouse\\warehouse\\warehouse\\warehouse\\model\\weightvolumeunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|solutionrelative:warehouse\\model\\weightvolumeunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|c:\\users\\artyom\\documents\\csharp_course1\\warehouse\\warehouse\\warehouse\\warehouse\\model\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|solutionrelative:warehouse\\model\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|c:\\users\\artyom\\documents\\csharp_course1\\warehouse\\warehouse\\warehouse\\warehouse\\model\\irecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3699B89-007F-4478-A80F-7439C28FAB6D}|wareHouse\\wareHouse.csproj|solutionrelative:warehouse\\model\\irecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "wareHouse\\UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\UI\\Program.cs",
+              "RelativeToolTip": "wareHouse\\UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:41:03.404Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CSVService.cs",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\Service\\CSVService.cs",
+              "RelativeDocumentMoniker": "wareHouse\\Service\\CSVService.cs",
+              "ToolTip": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\Service\\CSVService.cs",
+              "RelativeToolTip": "wareHouse\\Service\\CSVService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:08:07.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Commands.cs",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\UI\\Commands.cs",
+              "RelativeDocumentMoniker": "wareHouse\\UI\\Commands.cs",
+              "ToolTip": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\UI\\Commands.cs",
+              "RelativeToolTip": "wareHouse\\UI\\Commands.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:42:11.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\Model\\Cargo.cs",
+              "RelativeDocumentMoniker": "wareHouse\\Model\\Cargo.cs",
+              "ToolTip": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\Model\\Cargo.cs",
+              "RelativeToolTip": "wareHouse\\Model\\Cargo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:59:39.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeightVolumeUnit.cs",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\Model\\WeightVolumeUnit.cs",
+              "RelativeDocumentMoniker": "wareHouse\\Model\\WeightVolumeUnit.cs",
+              "ToolTip": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\Model\\WeightVolumeUnit.cs",
+              "RelativeToolTip": "wareHouse\\Model\\WeightVolumeUnit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:57:02.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WarehouseService.cs",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\Service\\WarehouseService.cs",
+              "RelativeDocumentMoniker": "wareHouse\\Service\\WarehouseService.cs",
+              "ToolTip": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\Service\\WarehouseService.cs",
+              "RelativeToolTip": "wareHouse\\Service\\WarehouseService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:23:11.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CargoService.cs",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\Service\\CargoService.cs",
+              "RelativeDocumentMoniker": "wareHouse\\Service\\CargoService.cs",
+              "ToolTip": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\Service\\CargoService.cs",
+              "RelativeToolTip": "wareHouse\\Service\\CargoService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:22:47.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InMemoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\DAL\\InMemoryRepository.cs",
+              "RelativeDocumentMoniker": "wareHouse\\DAL\\InMemoryRepository.cs",
+              "ToolTip": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\DAL\\InMemoryRepository.cs",
+              "RelativeToolTip": "wareHouse\\DAL\\InMemoryRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA7wBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:02:03.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\Model\\IRecord.cs",
+              "RelativeDocumentMoniker": "wareHouse\\Model\\IRecord.cs",
+              "ToolTip": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\Model\\IRecord.cs",
+              "RelativeToolTip": "wareHouse\\Model\\IRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:56:33.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WareHouse.cs",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\Model\\WareHouse.cs",
+              "RelativeDocumentMoniker": "wareHouse\\Model\\WareHouse.cs",
+              "ToolTip": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\Model\\WareHouse.cs",
+              "RelativeToolTip": "wareHouse\\Model\\WareHouse.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:00:45.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
