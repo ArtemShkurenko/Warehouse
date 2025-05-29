@@ -4,7 +4,7 @@ using wareHouse.Model;
 using wareHouse.Service;
 using wareHouse.UI;
 
-Console.WriteLine("WAREHOUSE");
+Console.WriteLine("WAREHOUSE SERVICE");
 Console.WriteLine("\n\nDescription of the main commands: ");
 Console.WriteLine("Create feature: add warehouse  OR   add cargo");
 Console.WriteLine("Get all features: get-all cargo  OR   get-all warehouse");

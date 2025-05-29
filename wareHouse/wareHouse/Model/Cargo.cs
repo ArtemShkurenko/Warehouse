@@ -5,7 +5,7 @@ namespace wareHouse.Model
 {
     public class Cargo : IRecord
     {
-        public int Id;
+        public int Id { get; set; }
         public string Code { get; set; }
         public Cargo()
         {

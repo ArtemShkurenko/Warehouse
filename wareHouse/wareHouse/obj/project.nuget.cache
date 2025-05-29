@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a43Ik4tLh9M=",
+  "dgSpecHash": "/ldwNXmGI5I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\wareHouse.csproj",
+  "projectFilePath": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\new\\Warehouse\\wareHouse\\wareHouse\\wareHouse.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Artyom\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Artyom\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",

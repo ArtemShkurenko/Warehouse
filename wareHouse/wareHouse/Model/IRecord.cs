@@ -3,7 +3,7 @@
 
 namespace wareHouse.Model
 {
-    public class IRecord
+    public interface IRecord
     {
         public int Id{ get; set; }
     }

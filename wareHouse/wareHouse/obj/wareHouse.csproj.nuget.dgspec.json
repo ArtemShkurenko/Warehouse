@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\wareHouse.csproj": {}
+    "C:\\Users\\Artyom\\Documents\\CSharp_course1\\new\\Warehouse\\wareHouse\\wareHouse\\wareHouse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\wareHouse.csproj": {
+    "C:\\Users\\Artyom\\Documents\\CSharp_course1\\new\\Warehouse\\wareHouse\\wareHouse\\wareHouse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\wareHouse.csproj",
+        "projectUniqueName": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\new\\Warehouse\\wareHouse\\wareHouse\\wareHouse.csproj",
         "projectName": "wareHouse",
-        "projectPath": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\wareHouse.csproj",
+        "projectPath": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\new\\Warehouse\\wareHouse\\wareHouse\\wareHouse.csproj",
         "packagesPath": "C:\\Users\\Artyom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\wareHouse\\Warehouse\\wareHouse\\wareHouse\\obj\\",
+        "outputPath": "C:\\Users\\Artyom\\Documents\\CSharp_course1\\new\\Warehouse\\wareHouse\\wareHouse\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
